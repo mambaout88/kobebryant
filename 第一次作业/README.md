@@ -2,7 +2,7 @@
 # 设备预警系统
 ##1：ER图
 ![image](https://github.com/mambaout88/kobebryant/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/img/1.png)
-![image](https://github.com/mambaout88/kobebryant/blob/master/img/2.png)
+![image](https://github.com/mambaout88/kobebryant/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/img/2.png)
 
 
 ##SQL语句
