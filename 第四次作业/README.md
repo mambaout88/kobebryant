@@ -11,7 +11,7 @@ AND cp.PrivilegeMasterKey = (SELECT UserID FROM cf_user WHERE LoginName = 'test1
 AND cp.PrivilegeOperation = 'Permit' AND cp.PrivilegeAccess = 'Sys_Menu';
 
 ### 查询结果如图:
-![](https://github.com/mahuiking/mis/blob/master/forth/1.PNG)
+![](https://github.com/mambaout88/kobebryant/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/6.png)
 
 ### 伪代码:
 1、根据名称查找人员编号UserID  
