@@ -33,7 +33,7 @@ LEFT JOIN cf_user AS cu ON cur.UserID = cu.UserID  WHERE cu.LoginName='test1' ))
 OR (cp.PrivilegeMaster = 'CF_User' AND cp.PrivilegeMasterKey = (SELECT UserID FROM cf_user WHERE LoginName = 'test1')))  
 AND cp.PrivilegeOperation = 'Permit' AND cp.PrivilegeAccess = 'Sys_Button' AND sm.MenuName = '订单';  
 ### 查询结果如图
-![](https://github.com/mahuiking/mis/blob/master/forth/2.PNG)
+![](https://github.com/mambaout88/kobebryant/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/9.png)
 ### 伪代码
 1、根据名称查找人员编号UserID  
 2、根据人员编号UserID查找改人员所对应的角色集合RoleIDs  
